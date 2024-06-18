@@ -44,3 +44,4 @@ C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\refint\log4netA
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\log4netAdvanced.pdb
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\log4netAdvanced.genruntimeconfig.cache
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\ref\log4netAdvanced.dll
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\log4netAdvanced.sourcelink.json

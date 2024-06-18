@@ -10,12 +10,15 @@ namespace log4netAdvanced
 
         static void Main(string[] args)
         {
+
             // create 2 persons
             var person1 = new Person("Jonh", "Gold");
             var person2 = new Person("James", "Miller");
+
             // create 2 cars
             var car1 = new Car("Tesla Model S", 2020, person1);
             var car2 = new Car("Tesla Model X", 2020, person2);
+
             // logging
             logger.Debug("Some debug log");
             logger.Info(String.Format("Person1: {0}", person1));
