@@ -22,7 +22,6 @@ C:\Users\usuario\Desktop\code\c\log4netAdvanced\log4netAdvanced\obj\Debug\net8.0
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\log4netAdvanced\obj\Debug\net8.0\log4netAdvanced.genruntimeconfig.cache
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\log4netAdvanced\obj\Debug\net8.0\ref\log4netAdvanced.dll
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Debug\net8.0\log4netAdvanced.exe
-C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Debug\net8.0\log4net.config
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Debug\net8.0\log4netAdvanced.deps.json
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Debug\net8.0\log4netAdvanced.runtimeconfig.json
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Debug\net8.0\log4netAdvanced.dll
@@ -45,3 +44,4 @@ C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\log4netAdvanced
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\log4netAdvanced.genruntimeconfig.cache
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\ref\log4netAdvanced.dll
 C:\Users\usuario\Desktop\code\c\log4netAdvanced\obj\Debug\net8.0\log4netAdvanced.sourcelink.json
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Debug\net8.0\log4net.config

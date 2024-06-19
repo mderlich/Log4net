@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("log4netAdvanced")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+068ea1c0f6392d2313b49455c71316c9f6919ed2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a910d6630fecc6270c6206cd2481dd5ea5e22494")]
 [assembly: System.Reflection.AssemblyProductAttribute("log4netAdvanced")]
 [assembly: System.Reflection.AssemblyTitleAttribute("log4netAdvanced")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
