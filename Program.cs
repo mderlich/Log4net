@@ -25,6 +25,19 @@ namespace log4netAdvanced
             log.Warn(String.Format("Warning accrued at {0}", DateTime.Now));
             log.Error(String.Format("Error accrued at {0}", DateTime.Now));
             log.Fatal(String.Format("Serious problem with car {0} accrued at {1}", car1, DateTime.Now));
+
+            // Division por cero
+            var i = 0;
+
+            try
+            {
+                var x = 10 / i;
+            }
+            catch (DivideByZeroException ex)
+            {
+                log.Error("Developer: we tried to divide by zero again", ex);
+            }
+
         }
     }
 }
