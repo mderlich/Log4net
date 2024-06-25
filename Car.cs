@@ -6,7 +6,7 @@ namespace log4netAdvanced
     class Car
     {
         // create a static logger field
-        private static ILog logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        private static ILog log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
         public string Model { get; set; }
         public int YearReleased { get; set; }
@@ -18,7 +18,7 @@ namespace log4netAdvanced
             YearReleased = yearReleased;
             Owner = owner;
 
-            logger.Debug(String.Format("Created a car {0} at {1}", this, DateTime.Now));
+            log.Debug(String.Format("Created a car {0} at {1}", this, DateTime.Now));
         }
 
         public override string ToString()

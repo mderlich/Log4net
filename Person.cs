@@ -6,7 +6,7 @@ namespace log4netAdvanced
     class Person
     {
         // create a static logger field
-        private static ILog logger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        private static ILog log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
         public string Name { get; set; }
         public string LastName { get; set; }
@@ -16,7 +16,7 @@ namespace log4netAdvanced
             Name = name;
             LastName = lastName;
 
-            logger.Info(String.Format("Created a person {0} at {1}", this, DateTime.Now));
+            log.Info(String.Format("Created a person {0} at {1}", this, DateTime.Now));
         }
 
         public override string ToString()

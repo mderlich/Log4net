@@ -5,7 +5,7 @@ namespace log4netAdvanced
 {
     class Program
     {
-        private static readonly log4net.ILog logger = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
 
         static void Main(string[] args)
         {
@@ -19,12 +19,12 @@ namespace log4netAdvanced
             var car2 = new Car("Tesla Model X", 2020, person2);
 
             // logging
-            logger.Debug("Some debug log");
-            logger.Info(String.Format("Person1: {0}", person1));
-            logger.Info(String.Format("Car2: {0}", car2));
-            logger.Warn(String.Format("Warning accrued at {0}", DateTime.Now));
-            logger.Error(String.Format("Error accrued at {0}", DateTime.Now));
-            logger.Fatal(String.Format("Serious problem with car {0} accrued at {1}", car1, DateTime.Now));
+            log.Debug("Some debug log");
+            log.Info(String.Format("Person1: {0}", person1));
+            log.Info(String.Format("Car2: {0}", car2));
+            log.Warn(String.Format("Warning accrued at {0}", DateTime.Now));
+            log.Error(String.Format("Error accrued at {0}", DateTime.Now));
+            log.Fatal(String.Format("Serious problem with car {0} accrued at {1}", car1, DateTime.Now));
         }
     }
 }
