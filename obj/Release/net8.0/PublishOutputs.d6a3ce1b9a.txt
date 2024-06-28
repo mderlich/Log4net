@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\log4net.config
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\log4netAdvanced.exe
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\log4netAdvanced.dll
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\log4netAdvanced.deps.json
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\log4netAdvanced.runtimeconfig.json
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\log4netAdvanced.pdb
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\log4net.dll
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\log4net.Ext.Json.dll
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\System.Security.Permissions.dll
+C:\Users\usuario\Desktop\code\c\log4netAdvanced\bin\Release\net8.0\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

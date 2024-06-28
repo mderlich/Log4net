@@ -38,6 +38,9 @@ namespace log4netAdvanced
                 log.Error("Developer: we tried to divide by zero again", ex);
             }
 
+            Console.WriteLine("Presiona cualquier tecla para continuar...");
+            Console.ReadKey();
+
         }
     }
 }
